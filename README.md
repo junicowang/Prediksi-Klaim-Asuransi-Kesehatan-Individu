@@ -99,7 +99,7 @@ Output yang dihasilkan: `submission_kaggle.csv` (prediksi Agu–Des 2025, format
 ## Struktur Repo
 
 ```
-├── Code_Portfolio.ipynb   # notebook utama (analisis + model + forecast)
+├── Code.ipynb   # notebook utama (analisis + model + forecast)
 ├── Data_Polis.csv         # data polis
 ├── Data_Klaim.csv         # data klaim
 └── README.md
